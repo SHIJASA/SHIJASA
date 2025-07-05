@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shijasa" alt="shijasa" /></a> </p>
 
-- 🔭 I’m currently working on **iduki collectert**
+- 🔭 I’m currently working in **iduki collectorate**
 
 - 📫 How to reach me **shijasa50@gmail.com**
 
